@@ -1,0 +1,33 @@
+#page {
+	background-color: rgb(185, 179, 175);
+	font-family: sans-serif;
+	padding: 10px 10px 10px 10px;
+
+}
+
+
+h1 {
+	color: white;
+	position: relative;
+}
+
+li {
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+
+}
+
+.article{
+	background-color: rgb(185, 150, 150);
+	padding: 10px 10px 10px 10px;
+}
+
+#sidebar {
+	display: inline-block;
+	float: right;
+	max-width: 250px;
+	background-color: gray;
+	color: white;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
